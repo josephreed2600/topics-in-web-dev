@@ -135,8 +135,8 @@ This module discusses various topics in securing connections and stored data.
     - Asynchronous validation (related to [Performance](#Performance))
   - Protecting API keys and other sensitive technical data
   - Perspectives on password requirements
-    - At least one of these categories
-    - Correct horse battery staple
+    - "At least one character from each of these categories"
+    - "Correct horse battery staple"
     - Impact of server-side encryption and proper handling techniques
   - Safe storage of PII (related to [Legal](#Legal))
   - How to handle a data breach
