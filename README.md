@@ -164,8 +164,6 @@ This module discusses legal considerations that affect web site implementation a
 
   - [Designed to Last][Designed to Last]: A manifesto describing ideals to bear in mind while writing content for the web, with the goal of improving robustness to time and change.
 
-# <span id="Links">Links</span>
-
 [WAVE]: https://wave.webaim.org/
 [WCAG]: https://www.w3.org/WAI/standards-guidelines/wcag/
 [Acrobat]: https://www.adobe.com/accessibility/products/acrobat/using-acrobat-pro-accessibility-checker.html
