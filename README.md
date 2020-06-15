@@ -130,15 +130,15 @@ This module discusses various topics in securing connections and stored data.
   - Content Security Policy
     - What is XSS?
   - CORS
-  - Validation of user input
+  - Validation and sanitization of user input
     - Server-side vs. client-side
     - Asynchronous validation (related to [Performance](#Performance))
   - Protecting API keys and other sensitive technical data
   - Perspectives on password requirements
     - "At least one character from each of these categories"
     - "Correct horse battery staple"
-    - Impact of server-side encryption and proper handling techniques
   - Safe storage of PII (related to [Legal](#Legal))
+    - Hashing and proper handling techniques for passwords
   - How to handle a data breach
     - If you're a site administrator for a small company, this may fall to you, or you may be asked to advise other teams
     - What to share with the public/media/employees, and when
