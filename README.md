@@ -37,7 +37,7 @@ This module discusses writing meaningful content.
 
 # <span id="Performance">Performance</span>
 
-This modle discusses performance considerations for improving a site's speed and user experience.
+This module discusses performance considerations for improving a site's speed and user experience.
 
   - How does the user perceive their experience? What are the most important contributing factors?
     - What can we do to anticipate the user's next move and prepare for it?
