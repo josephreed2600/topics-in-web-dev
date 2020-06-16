@@ -130,6 +130,7 @@ This module discusses various topics in securing connections and stored data.
   - Content Security Policy
     - What is XSS?
   - CORS
+  - CSRF
   - Validation and sanitization of user input
     - Server-side vs. client-side
     - Asynchronous validation (related to [Performance](#Performance))
