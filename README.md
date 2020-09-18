@@ -1,6 +1,6 @@
 # <span id="Foreword">Foreword</span>
 
-I would like to see these topics covered either in relevant existing courses or in a new course or series, maybe "Topics in Web Development", at Neumont College of Computer Science, targeted towards students in the BS in Web Design and Development degree program.
+I would like to see these topics covered in coursework for degree programs that focus on web technologies.
 
 This repository will be used as a staging ground for curriculum items. Modules will be constructed in directories in the top level of the project tree. Modules will contain lesson plans, code examples, exercises, labs, and collections of resources.
 
